@@ -1,0 +1,7 @@
+torch
+torchvision
+timm
+Flask
+flask-cors
+Pillow
+werkzeug
